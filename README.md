@@ -27,6 +27,22 @@ Triggeras (Gatilhos) Funções UDF Funções de Data e Hora Manipulação de Str
 
 Sou apaixonado por tecnologia, área da Qual atuo a + de 13 anos, Atuando como: Analista de sistemas e Analista de Redes. Meu Instagram, com o perfil chamado "[Michael PreapDev](https://www.instagram.com/Michael_preapdev/)". Meu Linkedin "[Michael PreapDev](https://www.linkedin.com/in/michael-preapdev-91a104371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)" Meu Curriculo "[Michael Menezes](https://ocurriculo.com.br/cv/5366365e730d07ce05fa437617f7a642/)"
 
+<p align="center">
+  <a href="https://www.youtube.com/c/promadod"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/UiBRTqg.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/michael-preapdev/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/WDOikt4.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/promadod"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/Es2JfN2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/preapdev" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/6lNnA9U.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://wa.me/5521986855874"><img width="32px" alt="Whatsapp" title="Preapdev Contato" src="https://i.imgur.com/mV2UGjK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/Michael_preapdev"><img width="32px" alt="Ko-fi" title="Instagram" src="https://imgur.com/OWdUupI.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
 <p align="left">
     <a href="https://github.com/promadod?tab=repositories&sort=stargazers">
         <img 
