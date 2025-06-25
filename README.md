@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Iago Michael Alves de Menezes Andre, tenho 33 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio.Concluido Curso Presencial de Programação Fullstack com duração de 6 meses aproximadamente, usando Python com Sqlite para back-end e javascript, html, e css para o front-end. Sou apaixonado por tecnologia, área da Qual atuo a + de 13 anos, Atuando como: Analista de sistemas e Analista de Redes. Meu Instagram, com o perfil chamado "[Michael PreapDev](https://www.instagram.com/Michael_preapdev/)". Meu Linkedin "[Michael PreapDev](https://www.linkedin.com/in/michael-preapdev-91a104371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)"
+Me chamo Iago Michael Alves de Menezes Andre, tenho 33 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio.Concluido Curso Presencial de Programação Fullstack com duração de 6 meses aproximadamente, usando Python com Sqlite para back-end e javascript, html, e css para o front-end. Sou apaixonado por tecnologia, área da Qual atuo a + de 13 anos, Atuando como: Analista de sistemas e Analista de Redes. Meu Instagram, com o perfil chamado "[Michael PreapDev](https://www.instagram.com/Michael_preapdev/)". Meu Linkedin "[Michael PreapDev](https://www.linkedin.com/in/michael-preapdev-91a104371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)" Meu Curriculo "[Michael Menezes](https://ocurriculo.com.br/cv/5366365e730d07ce05fa437617f7a642/)"
 
 <p align="left">
     <a href="https://github.com/promadod?tab=repositories&sort=stargazers">
