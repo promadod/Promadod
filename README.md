@@ -2,7 +2,30 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Iago Michael Alves de Menezes Andre, tenho 33 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio.Concluido Curso Presencial de Programação Fullstack com duração de 6 meses aproximadamente, usando Python com Sqlite para back-end e javascript, html, e css para o front-end. Sou apaixonado por tecnologia, área da Qual atuo a + de 13 anos, Atuando como: Analista de sistemas e Analista de Redes. Meu Instagram, com o perfil chamado "[Michael PreapDev](https://www.instagram.com/Michael_preapdev/)". Meu Linkedin "[Michael PreapDev](https://www.linkedin.com/in/michael-preapdev-91a104371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)" Meu Curriculo "[Michael Menezes](https://ocurriculo.com.br/cv/5366365e730d07ce05fa437617f7a642/)"
+Me chamo Iago Michael Alves de Menezes Andre, tenho 33 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio.
+
+Concluido Curso Presencial de Programação Fullstack com duração de 6 meses aproximadamente, usando Python com Sqlite para back-end e javascript, html, e css para o front-end. Frameworks e Bibliotecas: 
+Django e Django Rest Framework, 
+Bootstrap, 
+FastAPI, 
+Pandas, 
+Request,
+Selenium, 
+OS, 
+BeautifulSoup,
+Pillow,
+OpenPyXL, 
+TensorFlow. 
+
+SQL Server (Basico) 
+
+Fundamentos basicos de banco de dados como Consultas Simples (SELECT FROM) Ordenação de Resultados SELECT TOP
+Filtros com WHERE Excluir Registros (DELETE) Limpar Tabelas (TRUNCATE) Atualizar Tabelas (UPDATE) Aliases com AS
+Operadores Lógicos Operador UNION Funções de Agregação Operador LIKE Backup e Restauração de BD Cláusula INNER
+JOIN Exercícios com INNER JOIN OUTER JOINS Exibições (Views) Subconsultas (Subqueries) Procedimentos Armazenados
+Triggeras (Gatilhos) Funções UDF Funções de Data e Hora Manipulação de Strings Índices
+
+Sou apaixonado por tecnologia, área da Qual atuo a + de 13 anos, Atuando como: Analista de sistemas e Analista de Redes. Meu Instagram, com o perfil chamado "[Michael PreapDev](https://www.instagram.com/Michael_preapdev/)". Meu Linkedin "[Michael PreapDev](https://www.linkedin.com/in/michael-preapdev-91a104371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)" Meu Curriculo "[Michael Menezes](https://ocurriculo.com.br/cv/5366365e730d07ce05fa437617f7a642/)"
 
 <p align="left">
     <a href="https://github.com/promadod?tab=repositories&sort=stargazers">
