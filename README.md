@@ -18,14 +18,11 @@ OpenPyXL,
 TensorFlow. 
 
 SQL Server (Basico) 
+Fundamentos basicos de banco de dados como: Consultas Simples (SELECT FROM) | Ordenação de Resultados SELECT TOP|
+Filtros com WHERE| (TRUNCATE) | (UPDATE) | Operadores Lógicos | Operador UNION | Funções de Agregação | Backup e Restauração de BD | Cláusula INNER JOIN 
+OUTER JOINS | Procedimentos Armazenados | Triggeras | Funções UDF Funções de Data e Hora Manipulação de Strings Índices.
 
-Fundamentos basicos de banco de dados como Consultas Simples (SELECT FROM) Ordenação de Resultados SELECT TOP
-Filtros com WHERE Excluir Registros (DELETE) Limpar Tabelas (TRUNCATE) Atualizar Tabelas (UPDATE) Aliases com AS
-Operadores Lógicos Operador UNION Funções de Agregação Operador LIKE Backup e Restauração de BD Cláusula INNER
-JOIN Exercícios com INNER JOIN OUTER JOINS Exibições (Views) Subconsultas (Subqueries) Procedimentos Armazenados
-Triggeras (Gatilhos) Funções UDF Funções de Data e Hora Manipulação de Strings Índices
-
-Sou apaixonado por tecnologia, área da Qual atuo a + de 13 anos, Atuando como: Analista de sistemas e Analista de Redes. Meu Instagram, com o perfil chamado "[Michael PreapDev](https://www.instagram.com/Michael_preapdev/)". Meu Linkedin "[Michael PreapDev](https://www.linkedin.com/in/michael-preapdev-91a104371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)" Meu Curriculo "[Michael Menezes](https://ocurriculo.com.br/cv/5366365e730d07ce05fa437617f7a642/)"
+Sou apaixonado por tecnologia, área da Qual atuo a + de 13 anos, Atuando como: Analista de sistemas,Analista de Redes e no ano de 2025 codando em Python e Javascript  Meu Curriculo "[Michael Menezes](https://ocurriculo.com.br/cv/5366365e730d07ce05fa437617f7a642/)"
 
 <p align="center">
   <a href="https://www.youtube.com/c/promadod"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/UiBRTqg.png"/></a>
