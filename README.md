@@ -2,32 +2,22 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Iago Michael Alves de Menezes Andre, tenho 33 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio.
+Me chamo Iago Michael Alves de Menezes Andre, tenho 33 anos e sou natural do Rio de Janeiro. Atuo a 13 anos na área de tecnologia da qual atuo hoje como Desenvolvedor python FullStack, preferencialemnte back-end.
 
-Concluido Curso Presencial de Programação Fullstack com duração de 6 meses aproximadamente, usando Python com Sqlite para back-end e javascript, html, e css para o front-end. Frameworks e Bibliotecas: 
-Django e Django Rest Framework, 
-Bootstrap, 
-FastAPI, 
-Pandas, 
-Request,
-Selenium, 
-OS, 
-BeautifulSoup,
-Pillow,
-OpenPyXL, 
-TensorFlow. 
+Vou deixar aqui algumas Stacks mais comuns em meu cotidiano.
 
-SQL Server (Basico) 
-Fundamentos basicos de banco de dados como: Consultas Simples (SELECT FROM) | Ordenação de Resultados SELECT TOP|
-Filtros com WHERE| (TRUNCATE) | (UPDATE) | Operadores Lógicos | Operador UNION | Funções de Agregação | Backup e Restauração de BD | Cláusula INNER JOIN 
-OUTER JOINS | Procedimentos Armazenados | Triggeras | Funções UDF Funções de Data e Hora Manipulação de Strings Índices.
+Django | Django Rest Framework | Flutter | FastAPI | PostgreSQL | MongoDB | WebScraping | Machine Learning | Scikit-learn | TensorFlow | Pandas | NumPy | Javascript | Bootstrap | Html | Css 
 
-Sou apaixonado por tecnologia, área da Qual atuo a + de 13 anos, Atuando como: Analista de sistemas,Analista de Redes e no ano de 2025 codando em Python e Javascript  Meu Curriculo "[Michael Menezes](https://ocurriculo.com.br/cv/5366365e730d07ce05fa437617f7a642/)"
+Sempre muito prestativo e voluntarioso para atender as necessidades do time aos quais ja trabalhei, e aos que vou trabalhar futuramente.
+
+ate esse momento 01/26, estou em um projeto de saas, como freelancer, aguardando uma oportunidade com algo fixo. 
+
+
 
 <p align="center">
-  <a href="https://www.youtube.com/c/promadod"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/UiBRTqg.png"/></a>
+  <a href="https://www.youtube.com/@preapdev"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/UiBRTqg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/michael-preapdev/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/WDOikt4.png"/></a>
+  <a href="www.linkedin.com/in/preapdev"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/WDOikt4.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/promadod"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/Es2JfN2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
