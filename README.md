@@ -10,7 +10,7 @@ Django | Django Rest Framework | Flutter | FastAPI | PostgreSQL | MongoDB | WebS
 
 Sempre muito prestativo e voluntarioso para atender as necessidades do time aos quais ja trabalhei, e aos que vou trabalhar futuramente.
 
-Até esse momento 01/26, estou em um projeto de SaaS, como freelancer, aguardando uma oportunidade com algo fixo. 
+Até esse momento 01/26, trabalhando como freelancer desenvolvendo um gerenciador para criar campanhas de tragego pg.  
 
 <p align="center">
   <a href="https://www.youtube.com/@preapdev"><img width="32px" alt="Youtube" src="https://i.imgur.com/UiBRTqg.png"/></a>
