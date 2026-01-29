@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Iago Michael Alves de Menezes Andre, tenho 33 anos e sou natural do Rio de Janeiro. Atuo a 13 anos na área de tecnologia da qual atuo hoje como Desenvolvedor python FullStack, preferencialmente back-end.
+Me chamo Iago Michael Alves de Menezes Andre, tenho 33 anos e sou natural do Rio de Janeiro. Atuo a 13 anos na área de tecnologia da qual atuo hoje como Desenvolvedor Python FullStack, preferencialmente back-end.
 
 Vou deixar aqui algumas Stacks mais comuns em meu cotidiano.
 
@@ -10,7 +10,7 @@ Django | Django Rest Framework | Flutter | FastAPI | PostgreSQL | MongoDB | WebS
 
 Sempre muito prestativo e voluntarioso para atender as necessidades do time aos quais ja trabalhei, e aos que vou trabalhar futuramente.
 
-Até esse momento 01/26, trabalhando como freelancer desenvolvendo um gerenciador para criar campanhas de tragego pg.  
+Até esse momento 01/26, trabalhando como freelancer desenvolvendo apps.  
 
 <p align="center">
   <a href="https://www.youtube.com/@preapdev"><img width="32px" alt="Youtube" src="https://i.imgur.com/UiBRTqg.png"/></a>
