@@ -6,7 +6,7 @@ Me chamo Iago Michael Alves de Menezes Andre, tenho 33 anos e sou natural do Rio
 
 Vou deixar aqui algumas Stacks mais comuns em meu cotidiano.
 
-Django | Django Rest Framework | Flutter | FastAPI | PostgreSQL | MongoDB | WebScraping | Machine Learning | Scikit-learn | TensorFlow | Pandas | NumPy | Javascript | Bootstrap | Html | Tailwind Css 
+Django | Django Rest Framework | Flutter | FastAPI | PostgreSQL | MongoDB | WebScraping | Machine Learning | Scikit-learn | TensorFlow | Pandas | NumPy | Javascript | Bootstrap | React | Tailwind Css | 
 
 Sempre muito prestativo e voluntarioso para atender as necessidades do time aos quais ja trabalhei, e aos que vou trabalhar futuramente.
 
